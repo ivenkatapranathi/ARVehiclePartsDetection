@@ -1,0 +1,33 @@
+{
+    "Coolant": {
+        "PartName": "Coolant",
+        "Description": "Engine coolant is a liquid mixture of water and antifreeze located in your vehicle's radiator. It prevents your engine from overheating in hot weather and freezing in extreme cold weather, conditions where things can go very wrong for an engine.",
+        "Maintance Details": "If you check your coolant level when the engine is cold, the coolant should be at or above the minimum or fill line on the transparent refill container. If you check your coolant level when the engine is hot, the coolant should be at or just below the max line.",
+        "VideoURL": "CoolantChangeVideo.mp4"
+    },
+
+    "Battery": {
+        "PartName": "Battery",
+        "Description": "The car battery provides the jolt of electricity necessary to power all the electrical components in your vehicle. Without battery power, your car, as you’ve probably noticed, won’t start.",
+        "Maintance Details": "On average, a battery will last 3 to 5 years, but driving habits and exposure to extreme elements can shorten the life of your car battery.Check engine light: The check engine light sometimes appears when your battery power is weak. Strange system indicator lights–such as check engine and low coolant lights–could mean there’s a problem with your battery.",
+        "VideoURL": "BatteryVideo.mov"
+    },
+    "EngineOil": {
+        "PartName": "EngineOil",
+        "Description": "The primary role of engine oil is to lubricate moving parts in an engine. Oil keeps the parts running smoothly while minimizing friction and engine component wear. It also draws heat away from lubricated engine components before the oil is cooled via air in the sump before being recirculated through the engine.",
+        "Maintance Details": "Taking care of your car engine is a must and perhaps the easiest way to do so is by getting a regular oil change. Engine oil is the lifeblood of your car-without it, the engine would seize up. Ford F150: Oil change every 10,000 miles or every 12 months. Chevrolet Silverado: Oil change every 7,500 miles or every 3 months. Toyota Camry: Oil change every 5,000 miles or every 6 month",
+        "VideoURL": "OilChange.mp4"
+    },
+    "RelayAndFuse": {
+        "PartName": "RelayAndFuse",
+        "Description": "Fuses are included on all your car's various electrical circuits to protect components from surges of electricity. If too much current flows through the circuit, the fuse will blow. Relays are remote switches that open or close an electrical circuit.",
+        "Maintance Details": "Sometimes, a momentary surge of electricity could randomly cause a fuse to blow. Once the fuse is replaced, the circuit is restored. However, it's more likely that a blown fuse is caused by an electrical problem.",
+        "VideoURL": "RelayAndFuse.mp4"
+    },
+    "WasherFluid": {
+        "PartName": "WasherFluid",
+        "Description": "Windshield washer fluid (also called windshield wiper fluid, wiper fluid, screen wash (in the UK), or washer fluid) is a fluid for motor vehicles that is used in cleaning the windshield with the windshield wiper while the vehicle is being driven.",
+        "Maintance Details": "If your windshield washer jets don’t spray anything when you engage them or the low washer fluid light comes on in your vehicle, it is likely time to refill the windshield washer fluid reservoir. Identify the low and high fill lines along the side.  Verify that the reservoir is indeed low on fluid before adding more",
+        "VideoURL": "WasherFluid.mp4"
+    }
+}

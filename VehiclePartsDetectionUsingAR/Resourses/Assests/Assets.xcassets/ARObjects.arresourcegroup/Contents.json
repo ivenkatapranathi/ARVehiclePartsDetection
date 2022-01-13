@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "Battery.arobject"
+    },
+    {
+      "filename" : "Coolant.arobject"
+    },
+    {
+      "filename" : "EngineOil.arobject"
+    },
+    {
+      "filename" : "RelayAndFuse.arobject"
+    },
+    {
+      "filename" : "WasherFluid.arobject"
+    }
+  ]
+}
